@@ -1,0 +1,393 @@
+Apr 24, 2023 9:58:45 AM BussinesLogic.SimulationManager run
+INFO: current time:0
+coada0[]
+coada1[]
+coada2[]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:58:46 AM BussinesLogic.SimulationManager run
+INFO: current time:1
+coada0[]
+coada1[]
+coada2[]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:58:47 AM BussinesLogic.SimulationManager run
+INFO: current time:2
+coada0[ID=8 arrTime=2 serTime=1]
+coada1[]
+coada2[]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:58:48 AM BussinesLogic.SimulationManager run
+INFO: current time:3
+coada0[]
+coada1[ID=5 arrTime=3 serTime=4]
+coada2[]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:58:49 AM BussinesLogic.SimulationManager run
+INFO: current time:4
+coada0[ID=20 arrTime=4 serTime=2]
+coada1[ID=5 arrTime=3 serTime=3]
+coada2[ID=42 arrTime=4 serTime=5]
+coada3[ID=46 arrTime=4 serTime=3]
+coada4[ID=47 arrTime=4 serTime=6]
+
+Apr 24, 2023 9:58:50 AM BussinesLogic.SimulationManager run
+INFO: current time:5
+coada0[ID=20 arrTime=4 serTime=1]
+coada1[ID=5 arrTime=3 serTime=2]
+coada2[ID=42 arrTime=4 serTime=4]
+coada3[ID=46 arrTime=4 serTime=2]
+coada4[ID=47 arrTime=4 serTime=5]
+
+Apr 24, 2023 9:58:51 AM BussinesLogic.SimulationManager run
+INFO: current time:6
+coada0[]
+coada1[ID=5 arrTime=3 serTime=1]
+coada2[ID=42 arrTime=4 serTime=3]
+coada3[ID=46 arrTime=4 serTime=1]
+coada4[ID=47 arrTime=4 serTime=4]
+
+Apr 24, 2023 9:58:52 AM BussinesLogic.SimulationManager run
+INFO: current time:7
+coada0[ID=4 arrTime=7 serTime=7]
+coada1[ID=26 arrTime=7 serTime=5]
+coada2[ID=42 arrTime=4 serTime=2]
+coada3[]
+coada4[ID=47 arrTime=4 serTime=3]
+
+Apr 24, 2023 9:58:53 AM BussinesLogic.SimulationManager run
+INFO: current time:8
+coada0[ID=4 arrTime=7 serTime=6]
+coada1[ID=26 arrTime=7 serTime=4]
+coada2[ID=42 arrTime=4 serTime=1, ID=48 arrTime=8 serTime=6]
+coada3[ID=36 arrTime=8 serTime=2]
+coada4[ID=47 arrTime=4 serTime=2]
+
+Apr 24, 2023 9:58:54 AM BussinesLogic.SimulationManager run
+INFO: current time:9
+coada0[ID=4 arrTime=7 serTime=5]
+coada1[ID=26 arrTime=7 serTime=3]
+coada2[ID=48 arrTime=8 serTime=6]
+coada3[ID=36 arrTime=8 serTime=1, ID=14 arrTime=9 serTime=7]
+coada4[ID=47 arrTime=4 serTime=1, ID=17 arrTime=9 serTime=1, ID=31 arrTime=9 serTime=2]
+
+Apr 24, 2023 9:58:55 AM BussinesLogic.SimulationManager run
+INFO: current time:10
+coada0[ID=4 arrTime=7 serTime=5]
+coada1[ID=26 arrTime=7 serTime=2, ID=12 arrTime=10 serTime=5]
+coada2[ID=48 arrTime=8 serTime=5]
+coada3[ID=14 arrTime=9 serTime=7]
+coada4[ID=17 arrTime=9 serTime=1, ID=31 arrTime=9 serTime=2]
+
+Apr 24, 2023 9:58:56 AM BussinesLogic.SimulationManager run
+INFO: current time:11
+coada0[ID=4 arrTime=7 serTime=3]
+coada1[ID=26 arrTime=7 serTime=1, ID=12 arrTime=10 serTime=5]
+coada2[ID=48 arrTime=8 serTime=4]
+coada3[ID=14 arrTime=9 serTime=6]
+coada4[ID=31 arrTime=9 serTime=2]
+
+Apr 24, 2023 9:58:57 AM BussinesLogic.SimulationManager run
+INFO: current time:12
+coada0[ID=4 arrTime=7 serTime=2]
+coada1[ID=12 arrTime=10 serTime=5]
+coada2[ID=48 arrTime=8 serTime=3]
+coada3[ID=14 arrTime=9 serTime=5]
+coada4[ID=31 arrTime=9 serTime=1]
+
+Apr 24, 2023 9:58:58 AM BussinesLogic.SimulationManager run
+INFO: current time:13
+coada0[ID=4 arrTime=7 serTime=1]
+coada1[ID=12 arrTime=10 serTime=4]
+coada2[ID=48 arrTime=8 serTime=2]
+coada3[ID=14 arrTime=9 serTime=4]
+coada4[]
+
+Apr 24, 2023 9:58:59 AM BussinesLogic.SimulationManager run
+INFO: current time:14
+coada0[ID=50 arrTime=14 serTime=2]
+coada1[ID=12 arrTime=10 serTime=3]
+coada2[ID=48 arrTime=8 serTime=1]
+coada3[ID=14 arrTime=9 serTime=3]
+coada4[]
+
+Apr 24, 2023 9:59:00 AM BussinesLogic.SimulationManager run
+INFO: current time:15
+coada0[ID=50 arrTime=14 serTime=1]
+coada1[ID=12 arrTime=10 serTime=2]
+coada2[]
+coada3[ID=14 arrTime=9 serTime=2]
+coada4[]
+
+Apr 24, 2023 9:59:01 AM BussinesLogic.SimulationManager run
+INFO: current time:16
+coada0[ID=38 arrTime=16 serTime=2]
+coada1[ID=12 arrTime=10 serTime=1]
+coada2[ID=10 arrTime=16 serTime=5]
+coada3[ID=14 arrTime=9 serTime=1]
+coada4[]
+
+Apr 24, 2023 9:59:02 AM BussinesLogic.SimulationManager run
+INFO: current time:17
+coada0[ID=38 arrTime=16 serTime=1]
+coada1[ID=32 arrTime=17 serTime=4]
+coada2[ID=10 arrTime=16 serTime=4]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:59:03 AM BussinesLogic.SimulationManager run
+INFO: current time:18
+coada0[ID=49 arrTime=18 serTime=5]
+coada1[ID=32 arrTime=17 serTime=3]
+coada2[ID=10 arrTime=16 serTime=3]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:59:04 AM BussinesLogic.SimulationManager run
+INFO: current time:19
+coada0[ID=49 arrTime=18 serTime=4]
+coada1[ID=32 arrTime=17 serTime=2]
+coada2[ID=10 arrTime=16 serTime=2]
+coada3[ID=23 arrTime=19 serTime=5]
+coada4[ID=45 arrTime=19 serTime=6]
+
+Apr 24, 2023 9:59:05 AM BussinesLogic.SimulationManager run
+INFO: current time:20
+coada0[ID=49 arrTime=18 serTime=3]
+coada1[ID=32 arrTime=17 serTime=1]
+coada2[ID=10 arrTime=16 serTime=1]
+coada3[ID=23 arrTime=19 serTime=4]
+coada4[ID=45 arrTime=19 serTime=5]
+
+Apr 24, 2023 9:59:06 AM BussinesLogic.SimulationManager run
+INFO: current time:21
+coada0[ID=49 arrTime=18 serTime=2]
+coada1[]
+coada2[ID=1 arrTime=21 serTime=7]
+coada3[ID=23 arrTime=19 serTime=3]
+coada4[ID=45 arrTime=19 serTime=4]
+
+Apr 24, 2023 9:59:07 AM BussinesLogic.SimulationManager run
+INFO: current time:22
+coada0[ID=49 arrTime=18 serTime=1, ID=30 arrTime=22 serTime=2]
+coada1[ID=3 arrTime=22 serTime=1, ID=40 arrTime=22 serTime=4]
+coada2[ID=1 arrTime=21 serTime=6]
+coada3[ID=23 arrTime=19 serTime=2]
+coada4[ID=45 arrTime=19 serTime=3]
+
+Apr 24, 2023 9:59:08 AM BussinesLogic.SimulationManager run
+INFO: current time:23
+coada0[ID=49 arrTime=18 serTime=1, ID=30 arrTime=22 serTime=2]
+coada1[ID=40 arrTime=22 serTime=4]
+coada2[ID=1 arrTime=21 serTime=5]
+coada3[ID=23 arrTime=19 serTime=1]
+coada4[ID=45 arrTime=19 serTime=2]
+
+Apr 24, 2023 9:59:09 AM BussinesLogic.SimulationManager run
+INFO: current time:24
+coada0[ID=30 arrTime=22 serTime=2, ID=15 arrTime=24 serTime=4]
+coada1[ID=40 arrTime=22 serTime=4]
+coada2[ID=1 arrTime=21 serTime=5]
+coada3[ID=23 arrTime=19 serTime=1, ID=2 arrTime=24 serTime=3]
+coada4[ID=45 arrTime=19 serTime=2]
+
+Apr 24, 2023 9:59:10 AM BussinesLogic.SimulationManager run
+INFO: current time:25
+coada0[ID=15 arrTime=24 serTime=4]
+coada1[ID=40 arrTime=22 serTime=2]
+coada2[ID=1 arrTime=21 serTime=3]
+coada3[ID=2 arrTime=24 serTime=2]
+coada4[ID=19 arrTime=25 serTime=4]
+
+Apr 24, 2023 9:59:11 AM BussinesLogic.SimulationManager run
+INFO: current time:26
+coada0[ID=15 arrTime=24 serTime=3]
+coada1[ID=40 arrTime=22 serTime=1, ID=44 arrTime=26 serTime=7]
+coada2[ID=1 arrTime=21 serTime=2]
+coada3[ID=2 arrTime=24 serTime=1]
+coada4[ID=19 arrTime=25 serTime=3]
+
+Apr 24, 2023 9:59:12 AM BussinesLogic.SimulationManager run
+INFO: current time:27
+coada0[ID=15 arrTime=24 serTime=2, ID=35 arrTime=27 serTime=5]
+coada1[ID=44 arrTime=26 serTime=7]
+coada2[ID=1 arrTime=21 serTime=1]
+coada3[ID=24 arrTime=27 serTime=6]
+coada4[ID=19 arrTime=25 serTime=2]
+
+Apr 24, 2023 9:59:13 AM BussinesLogic.SimulationManager run
+INFO: current time:28
+coada0[ID=15 arrTime=24 serTime=1, ID=35 arrTime=27 serTime=5]
+coada1[ID=44 arrTime=26 serTime=6]
+coada2[ID=21 arrTime=28 serTime=7]
+coada3[ID=24 arrTime=27 serTime=5]
+coada4[ID=19 arrTime=25 serTime=1, ID=37 arrTime=28 serTime=2]
+
+Apr 24, 2023 9:59:14 AM BussinesLogic.SimulationManager run
+INFO: current time:29
+coada0[ID=35 arrTime=27 serTime=5]
+coada1[ID=44 arrTime=26 serTime=5]
+coada2[ID=21 arrTime=28 serTime=6]
+coada3[ID=24 arrTime=27 serTime=4]
+coada4[ID=37 arrTime=28 serTime=2]
+
+Apr 24, 2023 9:59:15 AM BussinesLogic.SimulationManager run
+INFO: current time:30
+coada0[ID=35 arrTime=27 serTime=5]
+coada1[ID=44 arrTime=26 serTime=4]
+coada2[ID=21 arrTime=28 serTime=5]
+coada3[ID=24 arrTime=27 serTime=4]
+coada4[ID=37 arrTime=28 serTime=2]
+
+Apr 24, 2023 9:59:16 AM BussinesLogic.SimulationManager run
+INFO: current time:31
+coada0[ID=35 arrTime=27 serTime=3]
+coada1[ID=44 arrTime=26 serTime=3]
+coada2[ID=21 arrTime=28 serTime=4]
+coada3[ID=24 arrTime=27 serTime=2, ID=28 arrTime=31 serTime=6]
+coada4[ID=9 arrTime=31 serTime=5]
+
+Apr 24, 2023 9:59:17 AM BussinesLogic.SimulationManager run
+INFO: current time:32
+coada0[ID=35 arrTime=27 serTime=2, ID=6 arrTime=32 serTime=3]
+coada1[ID=44 arrTime=26 serTime=2, ID=33 arrTime=32 serTime=2]
+coada2[ID=21 arrTime=28 serTime=3]
+coada3[ID=24 arrTime=27 serTime=1, ID=28 arrTime=31 serTime=6]
+coada4[ID=9 arrTime=31 serTime=4]
+
+Apr 24, 2023 9:59:18 AM BussinesLogic.SimulationManager run
+INFO: current time:33
+coada0[ID=35 arrTime=27 serTime=1, ID=6 arrTime=32 serTime=3, ID=34 arrTime=33 serTime=2]
+coada1[ID=44 arrTime=26 serTime=1, ID=33 arrTime=32 serTime=2, ID=25 arrTime=33 serTime=6]
+coada2[ID=21 arrTime=28 serTime=2, ID=13 arrTime=33 serTime=7]
+coada3[ID=28 arrTime=31 serTime=6]
+coada4[ID=9 arrTime=31 serTime=3, ID=29 arrTime=33 serTime=6]
+
+Apr 24, 2023 9:59:19 AM BussinesLogic.SimulationManager run
+INFO: current time:34
+coada0[ID=35 arrTime=27 serTime=1, ID=6 arrTime=32 serTime=3, ID=34 arrTime=33 serTime=2, ID=7 arrTime=34 serTime=2]
+coada1[ID=33 arrTime=32 serTime=2, ID=25 arrTime=33 serTime=6]
+coada2[ID=21 arrTime=28 serTime=1, ID=13 arrTime=33 serTime=7]
+coada3[ID=28 arrTime=31 serTime=5, ID=22 arrTime=34 serTime=5]
+coada4[ID=9 arrTime=31 serTime=2, ID=29 arrTime=33 serTime=6]
+
+Apr 24, 2023 9:59:20 AM BussinesLogic.SimulationManager run
+INFO: current time:35
+coada0[ID=6 arrTime=32 serTime=2, ID=34 arrTime=33 serTime=2, ID=7 arrTime=34 serTime=2, ID=11 arrTime=35 serTime=7]
+coada1[ID=33 arrTime=32 serTime=1, ID=25 arrTime=33 serTime=6, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=7]
+coada3[ID=28 arrTime=31 serTime=4, ID=22 arrTime=34 serTime=5]
+coada4[ID=9 arrTime=31 serTime=1, ID=29 arrTime=33 serTime=6]
+
+Apr 24, 2023 9:59:21 AM BussinesLogic.SimulationManager run
+INFO: current time:36
+coada0[ID=6 arrTime=32 serTime=1, ID=34 arrTime=33 serTime=2, ID=7 arrTime=34 serTime=2, ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=6, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=6]
+coada3[ID=28 arrTime=31 serTime=3, ID=22 arrTime=34 serTime=5]
+coada4[ID=29 arrTime=33 serTime=6]
+
+Apr 24, 2023 9:59:22 AM BussinesLogic.SimulationManager run
+INFO: current time:37
+coada0[ID=34 arrTime=33 serTime=2, ID=7 arrTime=34 serTime=2, ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=5, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=5]
+coada3[ID=28 arrTime=31 serTime=2, ID=22 arrTime=34 serTime=5]
+coada4[ID=29 arrTime=33 serTime=5]
+
+Apr 24, 2023 9:59:23 AM BussinesLogic.SimulationManager run
+INFO: current time:38
+coada0[ID=34 arrTime=33 serTime=1, ID=7 arrTime=34 serTime=2, ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=4, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=4, ID=16 arrTime=38 serTime=2]
+coada3[ID=28 arrTime=31 serTime=1, ID=22 arrTime=34 serTime=5]
+coada4[ID=29 arrTime=33 serTime=4, ID=41 arrTime=38 serTime=1, ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:24 AM BussinesLogic.SimulationManager run
+INFO: current time:39
+coada0[ID=7 arrTime=34 serTime=2, ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=3, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=3, ID=16 arrTime=38 serTime=2]
+coada3[ID=22 arrTime=34 serTime=5]
+coada4[ID=29 arrTime=33 serTime=3, ID=41 arrTime=38 serTime=1, ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:25 AM BussinesLogic.SimulationManager run
+INFO: current time:40
+coada0[ID=7 arrTime=34 serTime=1, ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=2, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=2, ID=16 arrTime=38 serTime=2, ID=27 arrTime=40 serTime=4]
+coada3[ID=22 arrTime=34 serTime=4, ID=39 arrTime=40 serTime=1]
+coada4[ID=29 arrTime=33 serTime=2, ID=41 arrTime=38 serTime=1, ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:26 AM BussinesLogic.SimulationManager run
+INFO: current time:41
+coada0[ID=11 arrTime=35 serTime=7]
+coada1[ID=25 arrTime=33 serTime=1, ID=43 arrTime=35 serTime=4]
+coada2[ID=13 arrTime=33 serTime=1, ID=16 arrTime=38 serTime=2, ID=27 arrTime=40 serTime=4]
+coada3[ID=22 arrTime=34 serTime=3, ID=39 arrTime=40 serTime=1]
+coada4[ID=29 arrTime=33 serTime=1, ID=41 arrTime=38 serTime=1, ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:27 AM BussinesLogic.SimulationManager run
+INFO: current time:42
+coada0[ID=11 arrTime=35 serTime=6]
+coada1[ID=43 arrTime=35 serTime=4]
+coada2[ID=16 arrTime=38 serTime=2, ID=27 arrTime=40 serTime=4]
+coada3[ID=22 arrTime=34 serTime=2, ID=39 arrTime=40 serTime=1]
+coada4[ID=41 arrTime=38 serTime=1, ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:28 AM BussinesLogic.SimulationManager run
+INFO: current time:43
+coada0[ID=11 arrTime=35 serTime=5]
+coada1[ID=43 arrTime=35 serTime=3]
+coada2[ID=16 arrTime=38 serTime=1, ID=27 arrTime=40 serTime=4]
+coada3[ID=22 arrTime=34 serTime=1, ID=39 arrTime=40 serTime=1]
+coada4[ID=18 arrTime=38 serTime=3]
+
+Apr 24, 2023 9:59:29 AM BussinesLogic.SimulationManager run
+INFO: current time:44
+coada0[ID=11 arrTime=35 serTime=4]
+coada1[ID=43 arrTime=35 serTime=2]
+coada2[ID=27 arrTime=40 serTime=4]
+coada3[ID=39 arrTime=40 serTime=1]
+coada4[ID=18 arrTime=38 serTime=2]
+
+Apr 24, 2023 9:59:30 AM BussinesLogic.SimulationManager run
+INFO: current time:45
+coada0[ID=11 arrTime=35 serTime=3]
+coada1[ID=43 arrTime=35 serTime=1]
+coada2[ID=27 arrTime=40 serTime=3]
+coada3[]
+coada4[ID=18 arrTime=38 serTime=1]
+
+Apr 24, 2023 9:59:31 AM BussinesLogic.SimulationManager run
+INFO: current time:46
+coada0[ID=11 arrTime=35 serTime=2]
+coada1[]
+coada2[ID=27 arrTime=40 serTime=2]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:59:32 AM BussinesLogic.SimulationManager run
+INFO: current time:47
+coada0[ID=11 arrTime=35 serTime=1]
+coada1[]
+coada2[ID=27 arrTime=40 serTime=1]
+coada3[]
+coada4[]
+
+Apr 24, 2023 9:59:33 AM BussinesLogic.SimulationManager run
+INFO: current time:47
+coada0[ID=11 arrTime=35 serTime=1]
+coada1[]
+coada2[ID=27 arrTime=40 serTime=1]
+coada3[]
+coada4[]
+avg service time:4.06
+
